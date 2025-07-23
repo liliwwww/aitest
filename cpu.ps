@@ -1,0 +1,27 @@
+# 首先获取 Python 进程 ID（PID）
+$pythonProcess = Get-Process | Where-Object {$_.Name -like "*python*"} | Select-Object -First 1
+
+if ($pythonProcess) {
+    $pid = $pythonProcess.Id
+    $startTime = Get-Date
+    
+    # 记录初始 CPU 时间
+    $process = Get-Process -Id $pid
+    $startCpuTime = $process.TotalProcessorTime.TotalMilliseconds
+    
+    # 等待 10 秒
+    Start-Sleep -Seconds 10
+    
+    # 记录结束 CPU 时间
+    $process = Get-Process -Id $pid
+    $endCpuTime = $process.TotalProcessorTime.TotalMilliseconds
+    
+    # 计算 10 秒内的 CPU 使用率
+    $cpuUsedMs = $endCpuTime - $startCpuTime
+    $totalMs = 10 * 1000  # 10 秒
+    $cpuPercent = [math]::Round(($cpuUsedMs / $totalMs) * 100, 2)
+    
+    Write-Host "Python 进程 (PID: $pid) 在最近 10 秒内的 CPU 使用率: $cpuPercent%"
+} else {
+    Write-Host "未找到 Python 进程！"
+}

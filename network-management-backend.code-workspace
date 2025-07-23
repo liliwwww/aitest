@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../network-management-backend"
+		},
+		{
+			"path": "../network-management-platform"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

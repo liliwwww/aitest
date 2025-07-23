@@ -1,0 +1,2162 @@
+[
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"dropdown\"]",
+    "id": "",
+    "class": "dropdown-toggle",
+    "title": "",
+    "name": "",
+    "text": "我的账户",
+    "vertices": {
+      "topLeft": {
+        "x": 1432,
+        "y": 5
+      },
+      "topRight": {
+        "x": 1514,
+        "y": 5
+      },
+      "bottomLeft": {
+        "x": 1432,
+        "y": 33
+      },
+      "bottomRight": {
+        "x": 1514,
+        "y": 33
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a.red",
+    "id": "",
+    "class": "red",
+    "title": "",
+    "name": "",
+    "text": "注销登录",
+    "vertices": {
+      "topLeft": {
+        "x": 1515,
+        "y": 5
+      },
+      "topRight": {
+        "x": 1599,
+        "y": 5
+      },
+      "bottomLeft": {
+        "x": 1515,
+        "y": 33
+      },
+      "bottomRight": {
+        "x": 1599,
+        "y": 33
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[title=\"切换皮肤\"]",
+    "id": "",
+    "class": "dropdown-toggle theme blue",
+    "title": "切换皮肤",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 1600,
+        "y": 5
+      },
+      "topRight": {
+        "x": 1630,
+        "y": 5
+      },
+      "bottomLeft": {
+        "x": 1600,
+        "y": 33
+      },
+      "bottomRight": {
+        "x": 1630,
+        "y": 33
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "系统管理",
+    "vertices": {
+      "topLeft": {
+        "x": 25,
+        "y": 59
+      },
+      "topRight": {
+        "x": 139,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 25,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 139,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "代理商管理",
+    "vertices": {
+      "topLeft": {
+        "x": 140,
+        "y": 59
+      },
+      "topRight": {
+        "x": 268,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 140,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 268,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "商户管理",
+    "vertices": {
+      "topLeft": {
+        "x": 269,
+        "y": 59
+      },
+      "topRight": {
+        "x": 383,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 269,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 383,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "数据管理",
+    "vertices": {
+      "topLeft": {
+        "x": 384,
+        "y": 59
+      },
+      "topRight": {
+        "x": 498,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 384,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 498,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "清结算管理",
+    "vertices": {
+      "topLeft": {
+        "x": 500,
+        "y": 59
+      },
+      "topRight": {
+        "x": 628,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 500,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 628,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "接口管理",
+    "vertices": {
+      "topLeft": {
+        "x": 629,
+        "y": 59
+      },
+      "topRight": {
+        "x": 743,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 629,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 743,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "综合管理",
+    "vertices": {
+      "topLeft": {
+        "x": 744,
+        "y": 59
+      },
+      "topRight": {
+        "x": 858,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 744,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 858,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "团管理",
+    "vertices": {
+      "topLeft": {
+        "x": 859,
+        "y": 59
+      },
+      "topRight": {
+        "x": 959,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 859,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 959,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "终端管理",
+    "vertices": {
+      "topLeft": {
+        "x": 961,
+        "y": 59
+      },
+      "topRight": {
+        "x": 1075,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 961,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 1075,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "风控管理",
+    "vertices": {
+      "topLeft": {
+        "x": 1076,
+        "y": 59
+      },
+      "topRight": {
+        "x": 1190,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 1076,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 1190,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "分润账单管理",
+    "vertices": {
+      "topLeft": {
+        "x": 1191,
+        "y": 59
+      },
+      "topRight": {
+        "x": 1333,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 1191,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 1333,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "大Pos管理",
+    "vertices": {
+      "topLeft": {
+        "x": 1335,
+        "y": 59
+      },
+      "topRight": {
+        "x": 1458,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 1335,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 1458,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"slidebar\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "业务数据视图",
+    "vertices": {
+      "topLeft": {
+        "x": 1460,
+        "y": 59
+      },
+      "topRight": {
+        "x": 1602,
+        "y": 59
+      },
+      "bottomLeft": {
+        "x": 1460,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 1602,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-original-title=\"\"]",
+    "id": "",
+    "class": "lock",
+    "title": "",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 193,
+        "y": 92
+      },
+      "topRight": {
+        "x": 219,
+        "y": 92
+      },
+      "bottomLeft": {
+        "x": 193,
+        "y": 116
+      },
+      "bottomRight": {
+        "x": 219,
+        "y": 116
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"collapse\"]",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "代理商管理",
+    "vertices": {
+      "topLeft": {
+        "x": 1,
+        "y": 117
+      },
+      "topRight": {
+        "x": 219,
+        "y": 117
+      },
+      "bottomLeft": {
+        "x": 1,
+        "y": 144
+      },
+      "bottomRight": {
+        "x": 219,
+        "y": 144
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_1_a",
+    "id": "bjui-hnav-tree02000000_1_a",
+    "class": "level0 faicon",
+    "title": "代理商管理 ",
+    "name": "",
+    "text": "代理商管理",
+    "vertices": {
+      "topLeft": {
+        "x": 29,
+        "y": 153
+      },
+      "topRight": {
+        "x": 122,
+        "y": 153
+      },
+      "bottomLeft": {
+        "x": 29,
+        "y": 171
+      },
+      "bottomRight": {
+        "x": 122,
+        "y": 171
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_2_a",
+    "id": "bjui-hnav-tree02000000_2_a",
+    "class": "level1 faicon",
+    "title": "业务员管理",
+    "name": "",
+    "text": "业务员管理",
+    "vertices": {
+      "topLeft": {
+        "x": 50,
+        "y": 175
+      },
+      "topRight": {
+        "x": 143,
+        "y": 175
+      },
+      "bottomLeft": {
+        "x": 50,
+        "y": 193
+      },
+      "bottomRight": {
+        "x": 143,
+        "y": 193
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_3_a",
+    "id": "bjui-hnav-tree02000000_3_a",
+    "class": "level2 faicon",
+    "title": "业务员信息",
+    "name": "",
+    "text": "业务员信息",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 197
+      },
+      "topRight": {
+        "x": 164,
+        "y": 197
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 215
+      },
+      "bottomRight": {
+        "x": 164,
+        "y": 215
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_4_a",
+    "id": "bjui-hnav-tree02000000_4_a",
+    "class": "level1 faicon",
+    "title": "代理商管理",
+    "name": "",
+    "text": "代理商管理",
+    "vertices": {
+      "topLeft": {
+        "x": 50,
+        "y": 219
+      },
+      "topRight": {
+        "x": 143,
+        "y": 219
+      },
+      "bottomLeft": {
+        "x": 50,
+        "y": 237
+      },
+      "bottomRight": {
+        "x": 143,
+        "y": 237
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_5_a",
+    "id": "bjui-hnav-tree02000000_5_a",
+    "class": "level2 faicon curSelectedNode",
+    "title": "代理商申请",
+    "name": "",
+    "text": "代理商申请",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 241
+      },
+      "topRight": {
+        "x": 165,
+        "y": 241
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 260
+      },
+      "bottomRight": {
+        "x": 165,
+        "y": 260
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_6_a",
+    "id": "bjui-hnav-tree02000000_6_a",
+    "class": "level2 faicon",
+    "title": "代理商初审",
+    "name": "",
+    "text": "代理商初审",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 263
+      },
+      "topRight": {
+        "x": 164,
+        "y": 263
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 281
+      },
+      "bottomRight": {
+        "x": 164,
+        "y": 281
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_7_a",
+    "id": "bjui-hnav-tree02000000_7_a",
+    "class": "level2 faicon",
+    "title": "代理商终审",
+    "name": "",
+    "text": "代理商终审",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 285
+      },
+      "topRight": {
+        "x": 164,
+        "y": 285
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 303
+      },
+      "bottomRight": {
+        "x": 164,
+        "y": 303
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_8_a",
+    "id": "bjui-hnav-tree02000000_8_a",
+    "class": "level2 faicon",
+    "title": "正式代理商",
+    "name": "",
+    "text": "正式代理商",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 307
+      },
+      "topRight": {
+        "x": 164,
+        "y": 307
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 325
+      },
+      "bottomRight": {
+        "x": 164,
+        "y": 325
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_9_a",
+    "id": "bjui-hnav-tree02000000_9_a",
+    "class": "level2 faicon",
+    "title": "品牌方代理商",
+    "name": "",
+    "text": "品牌方代理商",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 329
+      },
+      "topRight": {
+        "x": 178,
+        "y": 329
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 347
+      },
+      "bottomRight": {
+        "x": 178,
+        "y": 347
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_10_a",
+    "id": "bjui-hnav-tree02000000_10_a",
+    "class": "level1 faicon",
+    "title": "代理商分润调整项",
+    "name": "",
+    "text": "代理商分润调整项",
+    "vertices": {
+      "topLeft": {
+        "x": 50,
+        "y": 351
+      },
+      "topRight": {
+        "x": 185,
+        "y": 351
+      },
+      "bottomLeft": {
+        "x": 50,
+        "y": 369
+      },
+      "bottomRight": {
+        "x": 185,
+        "y": 369
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_11_a",
+    "id": "bjui-hnav-tree02000000_11_a",
+    "class": "level1 faicon",
+    "title": "代理商账户管理",
+    "name": "",
+    "text": "代理商账户管理",
+    "vertices": {
+      "topLeft": {
+        "x": 50,
+        "y": 373
+      },
+      "topRight": {
+        "x": 171,
+        "y": 373
+      },
+      "bottomLeft": {
+        "x": 50,
+        "y": 391
+      },
+      "bottomRight": {
+        "x": 171,
+        "y": 391
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_12_a",
+    "id": "bjui-hnav-tree02000000_12_a",
+    "class": "level2 faicon",
+    "title": "分润审核单",
+    "name": "",
+    "text": "分润审核单",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 395
+      },
+      "topRight": {
+        "x": 164,
+        "y": 395
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 413
+      },
+      "bottomRight": {
+        "x": 164,
+        "y": 413
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_13_a",
+    "id": "bjui-hnav-tree02000000_13_a",
+    "class": "level2 faicon",
+    "title": "优付账户查询",
+    "name": "",
+    "text": "优付账户查询",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 417
+      },
+      "topRight": {
+        "x": 178,
+        "y": 417
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 435
+      },
+      "bottomRight": {
+        "x": 178,
+        "y": 435
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_14_a",
+    "id": "bjui-hnav-tree02000000_14_a",
+    "class": "level2 faicon",
+    "title": "代理商钱包查询",
+    "name": "",
+    "text": "代理商钱包查询",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 439
+      },
+      "topRight": {
+        "x": 192,
+        "y": 439
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 457
+      },
+      "bottomRight": {
+        "x": 192,
+        "y": 457
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_15_a",
+    "id": "bjui-hnav-tree02000000_15_a",
+    "class": "level2 faicon",
+    "title": "代理商结算卡管理",
+    "name": "",
+    "text": "代理商结算卡管理",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 461
+      },
+      "topRight": {
+        "x": 206,
+        "y": 461
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 479
+      },
+      "bottomRight": {
+        "x": 206,
+        "y": 479
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_16_a",
+    "id": "bjui-hnav-tree02000000_16_a",
+    "class": "level2 faicon",
+    "title": "代理商提现明细",
+    "name": "",
+    "text": "代理商提现明细",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 483
+      },
+      "topRight": {
+        "x": 192,
+        "y": 483
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 501
+      },
+      "bottomRight": {
+        "x": 192,
+        "y": 501
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_17_a",
+    "id": "bjui-hnav-tree02000000_17_a",
+    "class": "level1 faicon",
+    "title": "下载列表",
+    "name": "",
+    "text": "下载列表",
+    "vertices": {
+      "topLeft": {
+        "x": 50,
+        "y": 505
+      },
+      "topRight": {
+        "x": 129,
+        "y": 505
+      },
+      "bottomLeft": {
+        "x": 50,
+        "y": 523
+      },
+      "bottomRight": {
+        "x": 129,
+        "y": 523
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_18_a",
+    "id": "bjui-hnav-tree02000000_18_a",
+    "class": "level1 faicon",
+    "title": "代理商机具管理信息化",
+    "name": "",
+    "text": "代理商机具管理信息化",
+    "vertices": {
+      "topLeft": {
+        "x": 50,
+        "y": 527
+      },
+      "topRight": {
+        "x": 213,
+        "y": 527
+      },
+      "bottomLeft": {
+        "x": 50,
+        "y": 545
+      },
+      "bottomRight": {
+        "x": 213,
+        "y": 545
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_19_a",
+    "id": "bjui-hnav-tree02000000_19_a",
+    "class": "level2 faicon",
+    "title": "UPOS机具管理",
+    "name": "",
+    "text": "UPOS机具管理",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 549
+      },
+      "topRight": {
+        "x": 189,
+        "y": 549
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 567
+      },
+      "bottomRight": {
+        "x": 189,
+        "y": 567
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_20_a",
+    "id": "bjui-hnav-tree02000000_20_a",
+    "class": "level2 faicon",
+    "title": "SK机具管理",
+    "name": "",
+    "text": "SK机具管理",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 571
+      },
+      "topRight": {
+        "x": 169,
+        "y": 571
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 589
+      },
+      "bottomRight": {
+        "x": 169,
+        "y": 589
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_21_a",
+    "id": "bjui-hnav-tree02000000_21_a",
+    "class": "level2 faicon",
+    "title": "LV机具管理",
+    "name": "",
+    "text": "LV机具管理",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 593
+      },
+      "topRight": {
+        "x": 166,
+        "y": 593
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 611
+      },
+      "bottomRight": {
+        "x": 166,
+        "y": 611
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_22_a",
+    "id": "bjui-hnav-tree02000000_22_a",
+    "class": "level2 faicon",
+    "title": "代理商机具管理",
+    "name": "",
+    "text": "代理商机具管理",
+    "vertices": {
+      "topLeft": {
+        "x": 71,
+        "y": 615
+      },
+      "topRight": {
+        "x": 192,
+        "y": 615
+      },
+      "bottomLeft": {
+        "x": 71,
+        "y": 633
+      },
+      "bottomRight": {
+        "x": 192,
+        "y": 633
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a#bjui-hnav-tree02000000_23_a",
+    "id": "bjui-hnav-tree02000000_23_a",
+    "class": "level1 faicon",
+    "title": "代理商活动配置",
+    "name": "",
+    "text": "代理商活动配置",
+    "vertices": {
+      "topLeft": {
+        "x": 50,
+        "y": 637
+      },
+      "topRight": {
+        "x": 171,
+        "y": 637
+      },
+      "bottomLeft": {
+        "x": 50,
+        "y": 655
+      },
+      "bottomRight": {
+        "x": 171,
+        "y": 655
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "我的主页",
+    "vertices": {
+      "topLeft": {
+        "x": 224,
+        "y": 91
+      },
+      "topRight": {
+        "x": 329,
+        "y": 91
+      },
+      "bottomLeft": {
+        "x": 224,
+        "y": 116
+      },
+      "bottomRight": {
+        "x": 329,
+        "y": 116
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[title=\"代理商申请\"]",
+    "id": "",
+    "class": "",
+    "title": "代理商申请",
+    "name": "",
+    "text": "代理商申请",
+    "vertices": {
+      "topLeft": {
+        "x": 331,
+        "y": 91
+      },
+      "topRight": {
+        "x": 433,
+        "y": 91
+      },
+      "bottomLeft": {
+        "x": 331,
+        "y": 116
+      },
+      "bottomRight": {
+        "x": 433,
+        "y": 116
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[title=\"UPOS机具管理\"]",
+    "id": "",
+    "class": "",
+    "title": "UPOS机具管理",
+    "name": "",
+    "text": "UPOS机具管理",
+    "vertices": {
+      "topLeft": {
+        "x": 435,
+        "y": 91
+      },
+      "topRight": {
+        "x": 561,
+        "y": 91
+      },
+      "bottomLeft": {
+        "x": 435,
+        "y": 116
+      },
+      "bottomRight": {
+        "x": 561,
+        "y": 116
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[title=\"代理商初审\"]",
+    "id": "",
+    "class": "",
+    "title": "代理商初审",
+    "name": "",
+    "text": "代理商初审",
+    "vertices": {
+      "topLeft": {
+        "x": 563,
+        "y": 91
+      },
+      "topRight": {
+        "x": 665,
+        "y": 91
+      },
+      "bottomLeft": {
+        "x": 563,
+        "y": 116
+      },
+      "bottomRight": {
+        "x": 665,
+        "y": 116
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[title=\"代理商终审\"]",
+    "id": "",
+    "class": "",
+    "title": "代理商终审",
+    "name": "",
+    "text": "代理商终审",
+    "vertices": {
+      "topLeft": {
+        "x": 667,
+        "y": 91
+      },
+      "topRight": {
+        "x": 768,
+        "y": 91
+      },
+      "bottomLeft": {
+        "x": 667,
+        "y": 116
+      },
+      "bottomRight": {
+        "x": 768,
+        "y": 116
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[title=\"分润审核单\"]",
+    "id": "",
+    "class": "",
+    "title": "分润审核单",
+    "name": "",
+    "text": "分润审核单",
+    "vertices": {
+      "topLeft": {
+        "x": 770,
+        "y": 91
+      },
+      "topRight": {
+        "x": 871,
+        "y": 91
+      },
+      "bottomLeft": {
+        "x": 770,
+        "y": 116
+      },
+      "bottomRight": {
+        "x": 871,
+        "y": 116
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"datepickerbtn\"]",
+    "id": "",
+    "class": "bjui-lookup",
+    "title": "",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 434,
+        "y": 222
+      },
+      "topRight": {
+        "x": 450,
+        "y": 222
+      },
+      "bottomLeft": {
+        "x": 434,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 450,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"datepickerbtn\"]",
+    "id": "",
+    "class": "bjui-lookup",
+    "title": "",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 656,
+        "y": 222
+      },
+      "topRight": {
+        "x": 672,
+        "y": 222
+      },
+      "bottomLeft": {
+        "x": 656,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 672,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"datepickerbtn\"]",
+    "id": "",
+    "class": "bjui-lookup",
+    "title": "",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 874,
+        "y": 222
+      },
+      "topRight": {
+        "x": 890,
+        "y": 222
+      },
+      "bottomLeft": {
+        "x": 874,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 890,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"datepickerbtn\"]",
+    "id": "",
+    "class": "bjui-lookup",
+    "title": "",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 1093,
+        "y": 222
+      },
+      "topRight": {
+        "x": 1109,
+        "y": 222
+      },
+      "bottomLeft": {
+        "x": 1093,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 1109,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-icon=\"undo\"]",
+    "id": "",
+    "class": "btn btn-orange",
+    "title": "",
+    "name": "",
+    "text": "清空查询",
+    "vertices": {
+      "topLeft": {
+        "x": 1202,
+        "y": 221
+      },
+      "topRight": {
+        "x": 1293,
+        "y": 221
+      },
+      "bottomLeft": {
+        "x": 1202,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 1293,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"dialog\"]",
+    "id": "",
+    "class": "btn btn-blue permission",
+    "title": "",
+    "name": "",
+    "text": "添加代理商",
+    "vertices": {
+      "topLeft": {
+        "x": 230,
+        "y": 255
+      },
+      "topRight": {
+        "x": 321,
+        "y": 255
+      },
+      "bottomLeft": {
+        "x": 230,
+        "y": 279
+      },
+      "bottomRight": {
+        "x": 321,
+        "y": 279
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"dialog\"]",
+    "id": "",
+    "class": "btn btn-blue permission",
+    "title": "",
+    "name": "",
+    "text": "编辑代理商",
+    "vertices": {
+      "topLeft": {
+        "x": 329,
+        "y": 255
+      },
+      "topRight": {
+        "x": 421,
+        "y": 255
+      },
+      "bottomLeft": {
+        "x": 329,
+        "y": 279
+      },
+      "bottomRight": {
+        "x": 421,
+        "y": 279
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"dialog\"]",
+    "id": "",
+    "class": "btn btn-blue permission",
+    "title": "",
+    "name": "",
+    "text": "上传图片资料",
+    "vertices": {
+      "topLeft": {
+        "x": 429,
+        "y": 255
+      },
+      "topRight": {
+        "x": 533,
+        "y": 255
+      },
+      "bottomLeft": {
+        "x": 429,
+        "y": 279
+      },
+      "bottomRight": {
+        "x": 533,
+        "y": 279
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"doajax\"]",
+    "id": "",
+    "class": "btn btn-red permission",
+    "title": "",
+    "name": "",
+    "text": "删除代理商",
+    "vertices": {
+      "topLeft": {
+        "x": 541,
+        "y": 255
+      },
+      "topRight": {
+        "x": 632,
+        "y": 255
+      },
+      "bottomLeft": {
+        "x": 541,
+        "y": 279
+      },
+      "bottomRight": {
+        "x": 632,
+        "y": 279
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[data-toggle=\"dialog\"]",
+    "id": "",
+    "class": "btn btn-blue permission",
+    "title": "",
+    "name": "",
+    "text": "导入代理商",
+    "vertices": {
+      "topLeft": {
+        "x": 641,
+        "y": 255
+      },
+      "topRight": {
+        "x": 732,
+        "y": 255
+      },
+      "bottomLeft": {
+        "x": 641,
+        "y": 279
+      },
+      "bottomRight": {
+        "x": 732,
+        "y": 279
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a[title=\"跳转\"]",
+    "id": "",
+    "class": "goto",
+    "title": "跳转",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 1598,
+        "y": 624
+      },
+      "topRight": {
+        "x": 1624,
+        "y": 624
+      },
+      "bottomLeft": {
+        "x": 1598,
+        "y": 649
+      },
+      "bottomRight": {
+        "x": 1624,
+        "y": 649
+      }
+    }
+  },
+  {
+    "tag": "a",
+    "selector": "a",
+    "id": "",
+    "class": "",
+    "title": "",
+    "name": "",
+    "text": "联动优势电子商务有限公司",
+    "vertices": {
+      "topLeft": {
+        "x": 804,
+        "y": 654
+      },
+      "topRight": {
+        "x": 948,
+        "y": 654
+      },
+      "bottomLeft": {
+        "x": 804,
+        "y": 669
+      },
+      "bottomRight": {
+        "x": 948,
+        "y": 669
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button[title=\"导航菜单右移\"]",
+    "id": "",
+    "class": "btn btn-default bjui-hnav-more-right",
+    "title": "导航菜单右移",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 1610,
+        "y": 58
+      },
+      "topRight": {
+        "x": 1630,
+        "y": 58
+      },
+      "bottomLeft": {
+        "x": 1610,
+        "y": 88
+      },
+      "bottomRight": {
+        "x": 1630,
+        "y": 88
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button#haha1",
+    "id": "haha1",
+    "class": "btn btn-blue",
+    "title": "",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 433,
+        "y": 153
+      },
+      "topRight": {
+        "x": 463,
+        "y": 153
+      },
+      "bottomLeft": {
+        "x": 433,
+        "y": 177
+      },
+      "bottomRight": {
+        "x": 463,
+        "y": 177
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button#haha",
+    "id": "haha",
+    "class": "btn btn-blue",
+    "title": "",
+    "name": "",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 670,
+        "y": 153
+      },
+      "topRight": {
+        "x": 701,
+        "y": 153
+      },
+      "bottomLeft": {
+        "x": 670,
+        "y": 177
+      },
+      "bottomRight": {
+        "x": 701,
+        "y": 177
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button[title=\"请选择\"]",
+    "id": "",
+    "class": "btn dropdown-toggle selectpicker btn-default",
+    "title": "请选择",
+    "name": "",
+    "text": "请选择",
+    "vertices": {
+      "topLeft": {
+        "x": 314,
+        "y": 187
+      },
+      "topRight": {
+        "x": 383,
+        "y": 187
+      },
+      "bottomLeft": {
+        "x": 314,
+        "y": 211
+      },
+      "bottomRight": {
+        "x": 383,
+        "y": 211
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button[title=\"请选择\"]",
+    "id": "",
+    "class": "btn dropdown-toggle selectpicker btn-default",
+    "title": "请选择",
+    "name": "",
+    "text": "请选择",
+    "vertices": {
+      "topLeft": {
+        "x": 450,
+        "y": 187
+      },
+      "topRight": {
+        "x": 507,
+        "y": 187
+      },
+      "bottomLeft": {
+        "x": 450,
+        "y": 211
+      },
+      "bottomRight": {
+        "x": 507,
+        "y": 211
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button[title=\"请选择\"]",
+    "id": "",
+    "class": "btn dropdown-toggle selectpicker btn-default",
+    "title": "请选择",
+    "name": "",
+    "text": "请选择",
+    "vertices": {
+      "topLeft": {
+        "x": 587,
+        "y": 187
+      },
+      "topRight": {
+        "x": 644,
+        "y": 187
+      },
+      "bottomLeft": {
+        "x": 587,
+        "y": 211
+      },
+      "bottomRight": {
+        "x": 644,
+        "y": 211
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button[title=\"请选择\"]",
+    "id": "",
+    "class": "btn dropdown-toggle selectpicker btn-default",
+    "title": "请选择",
+    "name": "",
+    "text": "请选择",
+    "vertices": {
+      "topLeft": {
+        "x": 742,
+        "y": 187
+      },
+      "topRight": {
+        "x": 823,
+        "y": 187
+      },
+      "bottomLeft": {
+        "x": 742,
+        "y": 211
+      },
+      "bottomRight": {
+        "x": 823,
+        "y": 211
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button[title=\"请选择\"]",
+    "id": "",
+    "class": "btn dropdown-toggle selectpicker btn-default",
+    "title": "请选择",
+    "name": "",
+    "text": "请选择",
+    "vertices": {
+      "topLeft": {
+        "x": 933,
+        "y": 187
+      },
+      "topRight": {
+        "x": 990,
+        "y": 187
+      },
+      "bottomLeft": {
+        "x": 933,
+        "y": 211
+      },
+      "bottomRight": {
+        "x": 990,
+        "y": 211
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button[data-icon=\"search\"]",
+    "id": "",
+    "class": "btn btn-blue",
+    "title": "",
+    "name": "",
+    "text": "查询",
+    "vertices": {
+      "topLeft": {
+        "x": 1131,
+        "y": 221
+      },
+      "topRight": {
+        "x": 1194,
+        "y": 221
+      },
+      "bottomLeft": {
+        "x": 1131,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 1194,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "button",
+    "selector": "button[title=\"20\"]",
+    "id": "",
+    "class": "btn dropdown-toggle selectpicker btn-default",
+    "title": "20",
+    "name": "",
+    "text": "20",
+    "vertices": {
+      "topLeft": {
+        "x": 263,
+        "y": 626
+      },
+      "topRight": {
+        "x": 307,
+        "y": 626
+      },
+      "bottomLeft": {
+        "x": 263,
+        "y": 647
+      },
+      "bottomRight": {
+        "x": 307,
+        "y": 647
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input[name=\"agent_num\"]",
+    "id": "",
+    "class": "form-control",
+    "title": "",
+    "name": "agent_num",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 327,
+        "y": 119
+      },
+      "topRight": {
+        "x": 477,
+        "y": 119
+      },
+      "bottomLeft": {
+        "x": 327,
+        "y": 143
+      },
+      "bottomRight": {
+        "x": 477,
+        "y": 143
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input[name=\"agent_name\"]",
+    "id": "",
+    "class": "form-control",
+    "title": "",
+    "name": "agent_name",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 566,
+        "y": 119
+      },
+      "topRight": {
+        "x": 716,
+        "y": 119
+      },
+      "bottomLeft": {
+        "x": 566,
+        "y": 143
+      },
+      "bottomRight": {
+        "x": 716,
+        "y": 143
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input[name=\"_identity_num\"]",
+    "id": "",
+    "class": "form-control",
+    "title": "",
+    "name": "_identity_num",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 888,
+        "y": 119
+      },
+      "topRight": {
+        "x": 1038,
+        "y": 119
+      },
+      "bottomLeft": {
+        "x": 888,
+        "y": 143
+      },
+      "bottomRight": {
+        "x": 1038,
+        "y": 143
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input#sm_name",
+    "id": "sm_name",
+    "class": "form-control",
+    "title": "",
+    "name": "sign_sale.sm_name",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 308,
+        "y": 153
+      },
+      "topRight": {
+        "x": 428,
+        "y": 153
+      },
+      "bottomLeft": {
+        "x": 308,
+        "y": 177
+      },
+      "bottomRight": {
+        "x": 428,
+        "y": 177
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input#sm_name",
+    "id": "sm_name",
+    "class": "form-control",
+    "title": "",
+    "name": "maintain.sm_name",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 546,
+        "y": 153
+      },
+      "topRight": {
+        "x": 666,
+        "y": 153
+      },
+      "bottomLeft": {
+        "x": 546,
+        "y": 177
+      },
+      "bottomRight": {
+        "x": 666,
+        "y": 177
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input#admin_name",
+    "id": "admin_name",
+    "class": "form-control",
+    "title": "",
+    "name": "admin_name",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 779,
+        "y": 153
+      },
+      "topRight": {
+        "x": 899,
+        "y": 153
+      },
+      "bottomLeft": {
+        "x": 779,
+        "y": 177
+      },
+      "bottomRight": {
+        "x": 899,
+        "y": 177
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input[name=\"startlocaldate\"]",
+    "id": "",
+    "class": "form-control",
+    "title": "",
+    "name": "startlocaldate",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 341,
+        "y": 221
+      },
+      "topRight": {
+        "x": 451,
+        "y": 221
+      },
+      "bottomLeft": {
+        "x": 341,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 451,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input[name=\"endlocaldate\"]",
+    "id": "",
+    "class": "form-control",
+    "title": "",
+    "name": "endlocaldate",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 563,
+        "y": 221
+      },
+      "topRight": {
+        "x": 673,
+        "y": 221
+      },
+      "bottomLeft": {
+        "x": 563,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 673,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input[name=\"begin_valid\"]",
+    "id": "",
+    "class": "form-control",
+    "title": "",
+    "name": "begin_valid",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 781,
+        "y": 221
+      },
+      "topRight": {
+        "x": 891,
+        "y": 221
+      },
+      "bottomLeft": {
+        "x": 781,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 891,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input[name=\"end_valid\"]",
+    "id": "",
+    "class": "form-control",
+    "title": "",
+    "name": "end_valid",
+    "text": "",
+    "vertices": {
+      "topLeft": {
+        "x": 1000,
+        "y": 221
+      },
+      "topRight": {
+        "x": 1110,
+        "y": 221
+      },
+      "bottomLeft": {
+        "x": 1000,
+        "y": 245
+      },
+      "bottomRight": {
+        "x": 1110,
+        "y": 245
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "selector": "input[title=\"输入跳转页码，回车确认\"]",
+    "id": "",
+    "class": "form-control input-sm-pages",
+    "title": "输入跳转页码，回车确认",
+    "name": "",
+    "text": "1",
+    "vertices": {
+      "topLeft": {
+        "x": 1558,
+        "y": 626
+      },
+      "topRight": {
+        "x": 1597,
+        "y": 626
+      },
+      "bottomLeft": {
+        "x": 1558,
+        "y": 647
+      },
+      "bottomRight": {
+        "x": 1597,
+        "y": 647
+      }
+    }
+  }
+]

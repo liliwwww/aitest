@@ -1,0 +1,6 @@
+清空查询，url：javascript:;
+添加代理商，url：http://39.105.217.139:8181/yhbackstage/AgentInfo/add?agent_num=
+编辑代理商，url：http://39.105.217.139:8181/yhbackstage/AgentInfo/modifyAgent?{#bjui-selected}
+上传图片资料，url：http://39.105.217.139:8181/yhbackstage/AgentInfo/uploadImg?{#bjui-selected}
+删除代理商，url：http://39.105.217.139:8181/yhbackstage/AgentInfo/delete?{#bjui-selected}
+导入代理商，url：http://39.105.217.139:8181/yhbackstage/AgentInfo/uploadAgent
